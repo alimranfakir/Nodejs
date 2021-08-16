@@ -1,0 +1,19 @@
+{
+  "name": "nodepractice1",
+  "version": "1.0.0",
+  "description": "This is a simple webserver",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016\u0016"
+  },
+  "keywords": [
+    "\u0016"
+  ],
+  "author": "\u001b[A\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u0016\u0016",
+  "license": "ISC"
+}
